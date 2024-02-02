@@ -6,7 +6,7 @@ A new Flutter project.
 
 ## El backend lo pueden obtener de aquí
 
-[ Backend - Nodejs RestServer]([https://hub.docker.com/repository/docker/klerith/flutter-backend-teslo-shop/general](https://github.com/albinrk10/BandNamesBackend.git))
+[ Backend - Nodejs RestServer] https://github.com/albinrk10/BandNamesBackend.git
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
